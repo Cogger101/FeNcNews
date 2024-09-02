@@ -12,7 +12,7 @@
   --background-color: white;
   --foreground-color: blue;
   --primary-text-color: black;
-  --secondary-text-color: white;
+  --secondary-text-color: rgb(63, 1, 63);
   --toggle-bg: rgb(240, 240, 55);
   --toggle-fg: rgb(141, 141, 4);
 
@@ -26,7 +26,7 @@
   --background-color: black;
   --foreground-color: rgb(40, 40, 252);
   --primary-text-color: white;
-  --secondary-text-color: black;
+  --secondary-text-color: yellow;
   --toggle-bg: rgb(5, 5, 121);
   --toggle-fg: blue;
 
