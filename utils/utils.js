@@ -1,7 +1,7 @@
 import axios from 'axios'
 
 const ncNewsApiMain = axios.create({
-    baseURL: `https://seans-nc-news-project.onrender.com/`
+    baseURL: `https://nc-news-tthj.onrender.com/`
 })
 
 export function getAllArticles(){
