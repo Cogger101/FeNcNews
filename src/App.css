@@ -2,6 +2,17 @@
   background-color: var(--background-color);
 }
 
+.navbar {
+  padding: 5px;
+  position: fixed;
+  top:0px;
+  left: 0px;
+}
+
+.navbar-btn {
+  padding: 40px;
+}
+
 #header {
   padding: 10px;
   color: green;
@@ -41,15 +52,6 @@
   padding: 20px;
   margin-bottom: 20px;
 }
-
-.navbar {
-  padding: 5px;
-}
-
-.navbar-btn {
-  padding: 40px;
-}
-
 
 
 .like-btn {
