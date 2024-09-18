@@ -4,9 +4,12 @@
 
 .navbar {
   padding: 5px;
+  margin: auto;
   position: fixed;
+  width: 100%;
   top:0px;
   left: 0px;
+  background-color:rgb(225, 178, 6)
 }
 
 .navbar-btn {
@@ -38,16 +41,18 @@
   gap: 16px;
   padding: 16px;
   grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+ 
 }
 
 .ArticleCard {
-  border: 2px solid rgb(229, 255, 0);
+  border: 2px solid rgb(225, 178, 6);
   border-radius: 12px;
   padding: 5px;
+  ;
 }
 
 .SingleArticle {
-  border: 2px solid rgb(229, 255, 0);
+  border: 2px solid rgb(225, 178, 6);
   border-radius: 50px;
   padding: 20px;
   margin-bottom: 20px;
